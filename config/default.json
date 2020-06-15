@@ -1,0 +1,11 @@
+
+  {
+    "mongoURI": "mongodb+srv://alrinajabin:alrinajabin@cluster0-u8nuz.mongodb.net/tracker?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+  }
+
+
+  // {
+  //   "mongoURI": "mongodb://localhost:27017/traker",
+  //   "jwtSecret": "secret"
+  // }
